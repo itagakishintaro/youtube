@@ -1,0 +1,9 @@
+.title {
+	color: blue;
+}
+.comments {
+	color: gray;
+	margin-left: 2rem;
+	max-height: 200px;
+	overflow: scroll;
+}
